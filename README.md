@@ -1,2 +1,3 @@
-# tdf8546Library
-TDF8546 opamp library for STM32 devices. Uses STM32 HAL drivers, written in C.
+# tdf8546-library
+
+TDF8546 opamp driver library for STM32.
